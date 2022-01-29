@@ -21,7 +21,7 @@
                     <span class="menu__burger-icon"></span>
                 </button>
                 <ul class="menu__list" id="header-menu-list">
-                    <li class="menu__item"><a href="#section1" class="link">ПОЗДРАВЛЕНИЯ</a></li>
+                    <li class="menu__item"><a href="#section11" class="link">ПОЗДРАВЛЕНИЯ</a></li>
                     <li class="menu__item"><a href="#section2" class="link">ЛОРЕМ ИПСУМ</a></li>
                     <li class="menu__item"><a href="#section3" class="link">ИМПОРТАНТ МЕССАГЕ</a></li>
                     <li class="menu__item"><a href="#section4" class="link">КОШКАЖЕНА</a></li>
